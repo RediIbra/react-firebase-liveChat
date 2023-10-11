@@ -1,8 +1,11 @@
-# React + Vite
+# Live Chat with firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live chat application. The app shows in real time chat between different ancounts that are linked with gmail.
 
-Currently, two official plugins are available:
+run the project: -->npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Stack:
+
+--Front: -React+Vite  -UI styling:Tailwind & daisyui, -State menagment:React Context -Estlint
+
+Please create your own ancount in firebase so you can access the DB.
