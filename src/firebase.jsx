@@ -4,12 +4,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBQPVcx777jl7LMkDMduRaUwVQHLbAPtO0",
+  apiKey: "your api key",
   authDomain: "live-chat-10d3a.firebaseapp.com",
   projectId: "live-chat-10d3a",
   storageBucket: "live-chat-10d3a.appspot.com",
   messagingSenderId: "735354343932",
-  appId: "1:735354343932:web:d85e184e39d85f091ce279",
+  appId: "your app id",
 };
 
 const app = initializeApp(firebaseConfig);
