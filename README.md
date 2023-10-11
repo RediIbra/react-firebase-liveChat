@@ -1,6 +1,7 @@
 # Live Chat with firebase
 
-Live chat application. The app shows in real time chat between different anccounts that are linked with gmail.
+Live chat application. The app shows in real time chat between different anccounts that are linked with gmail.<br>
+![image](https://github.com/RediIbra/react-firebase-liveChat/assets/51862776/feac663a-b0b4-45c8-9606-4880f340a340)
 
 run the project: -->npm run dev
 
