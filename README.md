@@ -1,15 +1,17 @@
 # Live Chat with firebase
 
-Live chat application. The app shows in real time chat between different anccounts that are linked with gmail.<br>
+## Live chat application. The app shows in real time chat between different anccounts that are linked with gmail.<br>
 ![image](https://github.com/RediIbra/react-firebase-liveChat/assets/51862776/feac663a-b0b4-45c8-9606-4880f340a340)
 
-run the project: -->npm run dev
+- run the project: npm run dev
 
-Technologies Stack:
+### Technologies Stack:
 
---Front: -React+Vite  -UI styling:Tailwind & daisyui, -State menagment:React Context -Estlint
+- Front: -React+Vite
+- UI styling: Tailwind & daisyui
+- State menagment: React Context -Estlint
 
-Please create your own anccount in firebase so you can access the DB.
+### Please create your own anccount in firebase so you can access the DB.
 
 1.Open firebase [https://console.firebase.google.com/?fb_gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdoAjvaTKznGlh4KgLEcRx1uq7CiqZMNNA4XLijBI1J6JwmzBCrAF90aAutIEALw_wcB&_gl=1]. <br>
 2.Enter your Project name. <br>
